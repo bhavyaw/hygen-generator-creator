@@ -1,0 +1,9 @@
+{
+  "name": "hygen-generator-creator",
+  "version": "1.0.0",
+  "description": "Hygen generator to create new generators in a proper way.",
+  "main": "\"\"",
+  "repository": "https://github.com/bhavyaw/hygen-generator-creator",
+  "author": "bhavya wadhwa",
+  "license": "MIT"
+}
